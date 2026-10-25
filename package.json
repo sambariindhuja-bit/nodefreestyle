@@ -1,0 +1,12 @@
+
+{
+  "name": "nodefreestyle",
+  "version": "1.0.0",
+  "description": "Node.js Jenkins CI project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
+
